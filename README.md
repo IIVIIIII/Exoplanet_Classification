@@ -7,3 +7,9 @@ One model uses sklearn's random forest classifier and the other uses sklearn's s
 The tuned random forest classifier model had a score of 0.716
 
 The tuned SVC model had a score of 0.749
+
+Tools Required:
+- Python
+- Pandas
+- sklearn
+- Joblib
