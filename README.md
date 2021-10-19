@@ -4,9 +4,14 @@ This project involves training two separate machine learning models to classify 
 
 One model uses sklearn's random forest classifier and the other uses sklearn's support vector classifier (SVC). Both models undergo hyperparameter tuning using sklearn's GridSearchCV.
 
-The tuned random forest classifier model had a score of 0.716
+#### The tuned random forest classifier model had a score of 0.716
+![alt text](https://github.com/IIVIIIII/Exoplanet_Classification/blob/main/photos/randomforest_results.png?raw=true)
 
-The tuned SVC model had a score of 0.749
+#### The tuned SVC model had a score of 0.749
+![alt text](https://github.com/IIVIIIII/Exoplanet_Classification/blob/main/photos/svc_results.png?raw=true)
+
+
+
 
 Tools Required:
 - Python
